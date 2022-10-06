@@ -1,6 +1,6 @@
 # Natours Landing Page
 
-A modern landing page build with advanced CSS techniques and Sass
+A modern landing page build with advanced CSS techniques and Sass in 2018.
 
 ![MainScreen](./main-screen.png)
 
